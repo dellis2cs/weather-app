@@ -81,3 +81,17 @@ p {
 
   justify-content: space-around;
 }
+
+.currentLocationBtn {
+  padding: 20px;
+  margin-top: 30px;
+  color: white;
+  background-color: #171717;
+  border: 0;
+  border-radius: 8px;
+  transition: all 0.25s;
+}
+
+.currentLocationBtn:hover {
+  scale: 1.1;
+}
